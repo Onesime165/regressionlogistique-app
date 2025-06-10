@@ -743,7 +743,7 @@ else:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #b0c4de; padding: 20px;">
-    <p>© 2023 Econometric Logistic Regression Dashboard | Created with ❤️ using Streamlit & Plotly</p>
+    <p>© 2025 Econometric Logistic Regression Dashboard | Created with ❤️ using Streamlit & Plotly</p>
     <p>Made by Abo Onesime N'dri - Data Analyst / Scientist</p>
 </div>
 """, unsafe_allow_html=True)
